@@ -123,17 +123,19 @@ a{
     width: 155px;
     height: 44px;
     cursor: pointer;
+}
 
 footer{
     /* background-color: rgba(8, 7, 21, 0.911); */
     background-color: rgb(7, 7, 44);
     color: #FFFFFF;
     max-width: 1450px;
+    height: 100px;
+    text-align: center;
     height: 350px;
     margin: 0 auto;
     padding: 20px;
     margin-top: 50px;
     margin-bottom: 45px;
-    height: 100px;
-    text-align: center;
+    
 }
